@@ -99,6 +99,8 @@ Hacer cambio antes + git add
 
 8.1- En el GitHub:
 
-_- Pull request
-- Merge pull request_
-- Te aparece la informacion que puedes elimitar la rama
+> - Pull request 
+
+> - Merge pull request 
+
+> - Te aparece la informacion que puedes elimitar la rama 
